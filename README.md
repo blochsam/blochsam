@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,50:24A2A7,100:00D1FF&height=220&section=header&text=SAM%20BLOCH&fontSize=72&fontColor=FFFFFF&fontAlignY=35&desc=Program%20Manager%20%26%20Innovator&descSize=18&descColor=24A2A7&descAlignY=55&animation=fadeIn" width="100%" />
+<!-- Header Banner — committed to repo, no external dependency -->
+<img src="./header.svg" width="100%" alt="Sam Bloch — Program Manager & Innovator" />
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-sam--bloch.com-121212?style=for-the-badge&labelColor=121212&color=24A2A7)](https://www.sam-bloch.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blochsam-121212?style=for-the-badge&logo=linkedin&logoColor=24A2A7&labelColor=121212&color=1F1F1F)](https://linkedin.com/in/blochsam)
@@ -17,7 +17,7 @@ I'm a Michigan-born, California-based systems-thinker at **YouTube/Google** who 
 
 I build things that sit at the intersection of **human-centric design**, **AI innovation**, and **operational scale** — the kind of tools where safety doesn't feel like a barrier, it feels like a foundation.
 
-When I'm not architecting systems, I'm playing guitar, surfing, 3D printing, or meticulously cataloging my life through music and film.
+When I'm not architecting systems, I'm playing guitar, surfing, 3D printing, or meticulously cataloging my life through [music](https://www.concertarchives.org/sam-bloch) and [film](https://letterboxd.com/sam5927tde/).
 
 ---
 
@@ -106,9 +106,5 @@ CONSULTING                    Strategic advisory for orgs stuck in the "resource
 <div align="center">
 
 *"In a world where AI is moving at lightspeed, 'Trust' is a moving target. I thrive in that turbulence — building the structures that keep us grounded while we innovate into the unknown."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,50:24A2A7,100:00D1FF&height=120&section=footer" width="100%" />
 
 </div>
